@@ -4,7 +4,7 @@ the dataset will later be used to train on a chatbot model that i have prepared.
 
 the dataset currently has about 100 topics and 500 total conversations. (some conversations are missing)
 
-You can help us by contributing to the general-conversations.txt, write conversations there, and ill check it out!
+You can help us by contributing to the general-conversations-500.csv, write conversations there, and ill check it out!
 ---Thank You!---
 
 Goal: 1st evaluation (100 conversations) 
